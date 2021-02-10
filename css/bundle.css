@@ -171,6 +171,14 @@ body {
 16.0 Single-Product-Fullwidth-page:
 --------------------------------------------------------------*/
 /* 16.1 Product-zoom-area */
+.thumbnail-row {
+    width: 15%;
+    float: left;
+}
+.zoom-area {
+    width: 85%;
+    float: left;
+}
 .zoom-area #gallery-quick-view a, .zoom-area #gallery a {
   display: inline-block;
   width: 70px;
